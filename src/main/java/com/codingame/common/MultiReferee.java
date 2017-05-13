@@ -1,4 +1,4 @@
-package code4life.common;
+package com.codingame.common;
 
 import java.io.IOException;
 import java.io.InputStream;

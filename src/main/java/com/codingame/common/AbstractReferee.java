@@ -1,4 +1,4 @@
-package code4life.common;
+package com.codingame.common;
 
 import java.io.*;
 import java.util.*;
@@ -62,7 +62,7 @@ abstract class AbstractReferee {
 	}
 
 	@SuppressWarnings("serial")
-	abstract class GameException extends Exception {
+	public abstract class GameException extends Exception {
 		private String reasonCode, tooltipCode;
 		private Object[] values;
 

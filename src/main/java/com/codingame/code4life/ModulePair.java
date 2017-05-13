@@ -1,4 +1,4 @@
-package code4life;
+package com.codingame.code4life;
 
 import java.util.HashSet;
 

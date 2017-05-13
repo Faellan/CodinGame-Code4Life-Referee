@@ -1,4 +1,4 @@
-package code4life;
+package com.codingame.code4life;
 
 /**
  * Created by hwang on 13/05/2017.
